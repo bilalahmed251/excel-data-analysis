@@ -1,4 +1,4 @@
-# Excel Data Analysis – Beginner Project
+# Excel Data Analysis – Project
 
 This project is a basic Excel-based sales analysis using dummy data.
 
