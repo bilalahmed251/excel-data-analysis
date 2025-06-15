@@ -1,0 +1,26 @@
+# Excel Data Analysis – Beginner Project
+
+This project is a basic Excel-based sales analysis using dummy data.
+
+## 📊 Tools Used
+- Microsoft Excel
+- Formulas: `SUM`, `AVERAGE`, `VLOOKUP`, `IF`, `INDEX`, `MATCH`, `COUNTIFS`, `TEXT`
+- Pivot Tables
+- Conditional Formatting
+- Charts (Bar + Pie)
+
+## 🧪 What I Did
+- Analyzed sales & profit across products
+- Applied multiple Excel functions for logic & lookups
+- Created Pivot Table to summarize region-wise data
+- Used Conditional Formatting to highlight top performers
+
+## 🔗 How to Use
+You can download the `.xlsx` file and explore the formulas & charts yourself.
+
+## 🔥 LinkedIn Post
+I also shared this as part of my data analysis learning journey on [LinkedIn](https://www.linkedin.com/in/bilal-ahmed).
+
+---
+
+Feel free to fork, try it yourself, or suggest improvements!
